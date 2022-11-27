@@ -1,0 +1,10 @@
+wordpress - Link: https://codingreflections.com/tags/wordpress/
+PHP - Link: https://codingreflections.com/tags/php/
+BuiltWith - Link: https://trends.builtwith.com/framework/PHP
+PHP - Link: https://www.php.net/
+MySQL - Link: https://www.mysql.com/
+server processes the PHP script - Link: https://www.quora.com/What-is-WordPress-How-does-it-work-2
+Cascading Style Sheets - Link: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
+Javascript - Link: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+JQuery - Link: https://jquery.com/
+React - Link: https://reactjs.org/
